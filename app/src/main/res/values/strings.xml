@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thursday</string>
+    <string name="title_home">Home</string>
+    <string name="title_text">Text</string>
+    <string name="title_setting">Setting</string>
+    <string name="stt_result">RESULT</string>
+    <string name="explain">HOW TO USE</string>
+    <string name="home_intro">Hi, My name is jisun</string>
+</resources>
